@@ -2797,10 +2797,10 @@
   resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-9.0.7.tgz#b14cebc75455eeeb160d5fe23c2fcc0c64f724d8"
   integrity sha512-WUtIVRUZ9i5dYXefDEAI7sh9/O7jGvHg7Df/5O/gtH3Yabe5odI3UWopVR1qbPXQtvOxWu3mM4XxlYeZtMWF4g==
 
-"@types/web@^0.0.127":
-  version "0.0.127"
-  resolved "https://registry.yarnpkg.com/@types/web/-/web-0.0.127.tgz#f85460256df07ce0fbbb5f8dcb20ff5a6a799e28"
-  integrity sha512-5PR8ULDp5pYzBWke+VKihf2TkE2H5+RyyGJSDFAk+R1dWUKpwPoW/OiWv0q7DaLeJ/qvXPoKSuV331VsaEneew==
+"@types/web@^0.0.199":
+  version "0.0.199"
+  resolved "https://registry.yarnpkg.com/@types/web/-/web-0.0.199.tgz#285dae5016c5759cb317c58e9e96d67fd9004b60"
+  integrity sha512-gEgkkKQhgo9twYuK10kIVV/PG+WAPszpSZYYxzaoNekW9tUpHq/Q0T16Y3inej6FD4D8OArVBcZqkKZQM5yKCg==
 
 "@types/whatwg-mimetype@3.0.2":
   version "3.0.2"
